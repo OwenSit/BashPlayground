@@ -1,3 +1,4 @@
+#!/bin/bash
 # let's give our user a menu
 echo "Howdy! What would you like to have today? "
 echo "1. Have a beer."
